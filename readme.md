@@ -47,8 +47,7 @@ The model predicts a **sentiment score between 0 and 1**:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Yashgehlot174/ProjectUsingSimpleRNN.git
 ```
 
 ### 2️⃣ Create a virtual environment (optional but recommended)
